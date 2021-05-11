@@ -1,0 +1,12 @@
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.deps.json
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.runtimeconfig.json
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.runtimeconfig.dev.json
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.dll
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.csprojAssemblyReference.cache
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.AssemblyInfoInputs.cache
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.AssemblyInfo.cs
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\bin\Debug\netcoreapp2.2\NLogDemo.pdb
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.dll
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\obj\Debug\netcoreapp2.2\NLogDemo.pdb
+C:\Users\Jordan\Documents\GitRepos\MyDebuggingCourse\MyDebuggingCourse\NLog - Demo\NLogDemo\NLogDemo\bin\Debug\netcoreapp2.2\nlog.config
